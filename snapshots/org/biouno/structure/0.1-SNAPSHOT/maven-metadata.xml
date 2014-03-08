@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.biouno</groupId>
+  <artifactId>structure</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140308.051302</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140308051302</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>hpi</extension>
+        <value>0.1-20140308.051302-1</value>
+        <updated>20140308051302</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20140308.051302-1</value>
+        <updated>20140308051302</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1-20140308.051302-1</value>
+        <updated>20140308051302</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
