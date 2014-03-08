@@ -1,0 +1,32 @@
+updateCenter.post(
+{
+  "id": "biouno-update-center",
+  "plugins": {"structure":   {
+    "buildDate": "Mar 08, 2014",
+    "dependencies": [],
+    "developers": [    {
+      "developerId": "kinow",
+      "email": "brunodepaulak@yahoo.com.br",
+      "name": "Bruno P. Kinoshita"
+    }],
+    "excerpt": "This plug-in integrates Jenkins to Structure.",
+    "gav": "org.biouno:structure:0.1",
+    "name": "structure",
+    "releaseTimestamp": "2014-03-08T05:26:14.00Z",
+    "requiredCore": "1.532.2",
+    "scm": "github.com",
+    "sha1": "yxPPeMZcLcexYaWfP1wxTxc1Uxo=",
+    "title": "Structure Plug-in",
+    "url": "http://biouno.github.io/jenkins-update-center/releases/org/biouno/structure/0.1/structure-0.1.hpi",
+    "version": "0.1"
+  }},
+  "signature":   {
+    "certificates": ["MIICMjCCAZugAwIBAgIJAK1x9Mw1u+R1MA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgwNTE2NDVaFw0xNzAzMDcwNTE2NDVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAywP2sRbIHfi8Vl8c0S+jN0Oc19B+9UA1PG3ggJEOgN/3lcCns1iuu9mGoW6C6jfCdsy2xpeGd3UiMo2Z02gJhMUvDHJxcGeDYT9f85gOLsEYajrT7FcwTepGXvgCQmrSe3nKnQtKLjFJt4Y4jU/MB93R1adPeitNVKEJ119jHTkCAwEAAaNQME4wHQYDVR0OBBYEFDpwYih7zp/6FIvIKhJc8Ryxa91rMB8GA1UdIwQYMBaAFDpwYih7zp/6FIvIKhJc8Ryxa91rMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAlYBoXGo88TvkTlNIlBjx4IWhLJSXO/dHFFp1c57/SbuRSO2qGGadQoJkMYcoookmB2qTPMImV3iE+9od4+irfkOBbHaFXw9LW7dXJGrTW1b6KK5KE/h1p4D9dVapOpM2Da5Iuy3NJ8ZzniDPlhOrm6ztJoe9fJWMZYtnWu65vmw="],
+    "correct_digest": "yG5WprhMS5jwXE9ZlnuJnr4BhzM=",
+    "correct_signature": "qoFlUHByNAEqY8i0fpwTm00XKjP2eHjrZan+xZP/+U/PfH0EJLXK5u5FFaecZ+hECQnKxnAixQx2yaQWto1jYkkyr8h+p4tw2FeVH2s/N8XClU5RxHf9HRnUwnvNQmcSNJeY1xWbsktJyl4C7qB2toXP2pdjx0OBrmPzYMOdKA4=",
+    "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+    "signature": "Tkb33aqc0iKqxr3ICkrJQvUsuUVt4dZgF1JAYDEq07UPgX+wFVMp7JDvzf05JLDlX2t94m//bj1dQ35oTRUIZMdRS6ihbLRTxq8gnPQ70g4YD7+ZT1ZR86iqmWMraw4+UK5/pwHwgetbXfJJXo5Sx7ABWxkmeLbS/psofXNMBeA="
+  },
+  "updateCenterVersion": "1"
+}
+);
