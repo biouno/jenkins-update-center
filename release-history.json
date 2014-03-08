@@ -1,0 +1,12 @@
+{"releaseHistory": [{
+  "date": "Mar 08, 2014",
+  "releases": [  {
+    "firstRelease": true,
+    "gav": "org.biouno:structure:0.1",
+    "latestRelease": true,
+    "timestamp": 1394256374000,
+    "title": "Structure Plug-in",
+    "version": "0.1",
+    "wiki": ""
+  }]
+}]}
