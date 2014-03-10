@@ -1,12 +1,26 @@
-{"releaseHistory": [{
-  "date": "Mar 08, 2014",
-  "releases": [  {
-    "firstRelease": true,
-    "gav": "org.biouno:structure:0.1",
-    "latestRelease": true,
-    "timestamp": 1394256374000,
-    "title": "Structure Plug-in",
-    "version": "0.1",
-    "wiki": ""
-  }]
-}]}
+{"releaseHistory": [
+    {
+    "date": "Mar 08, 2014",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.biouno:structure:0.1",
+      "latestRelease": true,
+      "timestamp": 1394256374000,
+      "title": "Structure Plug-in",
+      "version": "0.1",
+      "wiki": ""
+    }]
+  },
+    {
+    "date": "Mar 10, 2014",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.biouno:pbs:0.1",
+      "latestRelease": true,
+      "timestamp": 1394424244000,
+      "title": "PBS Plug-in",
+      "version": "0.1",
+      "wiki": ""
+    }]
+  }
+]}

@@ -1,29 +1,50 @@
 updateCenter.post(
 {
   "id": "biouno-update-center",
-  "plugins": {"structure":   {
-    "buildDate": "Mar 08, 2014",
-    "dependencies": [],
-    "developers": [    {
-      "developerId": "kinow",
-      "email": "brunodepaulak@yahoo.com.br",
-      "name": "Bruno P. Kinoshita"
-    }],
-    "excerpt": "This plug-in integrates Jenkins to Structure.",
-    "gav": "org.biouno:structure:0.1",
-    "name": "structure",
-    "releaseTimestamp": "2014-03-08T05:26:14.00Z",
-    "requiredCore": "1.532.2",
-    "scm": "github.com",
-    "sha1": "yxPPeMZcLcexYaWfP1wxTxc1Uxo=",
-    "title": "Structure Plug-in",
-    "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/structure/0.1/structure-0.1.hpi",
-    "version": "0.1"
-  }},
+  "plugins":   {
+    "pbs":     {
+      "buildDate": "Mar 10, 2014",
+      "dependencies": [],
+      "developers": [      {
+        "developerId": "kinow",
+        "email": "brunodepaulak@yahoo.com.br",
+        "name": "Bruno P. Kinoshita"
+      }],
+      "excerpt": "This plug-in integrates Jenkins to PBS clusters.",
+      "gav": "org.biouno:pbs:0.1",
+      "name": "pbs",
+      "releaseTimestamp": "2014-03-10T04:04:04.00Z",
+      "requiredCore": "1.532.2",
+      "scm": "github.com",
+      "sha1": "73o2gspc1uiFPQ7LBEiM320ClUo=",
+      "title": "PBS Plug-in",
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/pbs/0.1/pbs-0.1.hpi",
+      "version": "0.1"
+    },
+    "structure":     {
+      "buildDate": "Mar 08, 2014",
+      "dependencies": [],
+      "developers": [      {
+        "developerId": "kinow",
+        "email": "brunodepaulak@yahoo.com.br",
+        "name": "Bruno P. Kinoshita"
+      }],
+      "excerpt": "This plug-in integrates Jenkins to Structure.",
+      "gav": "org.biouno:structure:0.1",
+      "name": "structure",
+      "releaseTimestamp": "2014-03-08T05:26:14.00Z",
+      "requiredCore": "1.532.2",
+      "scm": "github.com",
+      "sha1": "yxPPeMZcLcexYaWfP1wxTxc1Uxo=",
+      "title": "Structure Plug-in",
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/structure/0.1/structure-0.1.hpi",
+      "version": "0.1"
+    }
+  },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "OD7SmjouyJaGcLAJxZtwvAt9eRg=",
-    "correct_signature": "pPXHb4gjcUw8aImjmxuFzYU4NJ6v95J1AY7W7U8nLjpD27/zzL3O1o/zJgtMxmwggy0I5egtTK5oIJ/5txUyUJxh7jB1UMTmsMZMNlKXlsTqkFUqy3kF1B1NlaY68jM0fFCzzHGJmboVPYgVMiHafR9Hjl7Qmt0JQnPehgQvbLk=",
+    "correct_digest": "W35iK5w9hLiOXtiWHAhzYY6XpVg=",
+    "correct_signature": "CaajI6XcO4l8mJRDZnZLe9IA8Rhbu+Dpj1e6KUxuHwdsWxJ5w3cODZcTG6XridXeSXP9vlmsobsO95k5LIU3iS9F8nqt8YTLqAhrHSjffG+peJtikwNKeKSyO3I2KIL3cYV21HQoDY0xZW9pes4VZLUT5I8xr46p/HLK71U5qP8=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },
