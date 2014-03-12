@@ -22,5 +22,17 @@
       "version": "0.1",
       "wiki": ""
     }]
+  },
+    {
+    "date": "Mar 11, 2014",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.biouno:structure-harvester:0.1",
+      "latestRelease": true,
+      "timestamp": 1394582834000,
+      "title": "Structure Harvester Plug-in",
+      "version": "0.1",
+      "wiki": ""
+    }]
   }
 ]}

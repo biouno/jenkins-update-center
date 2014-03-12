@@ -39,12 +39,31 @@ updateCenter.post(
       "title": "Structure Plug-in",
       "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/structure/0.1/structure-0.1.hpi",
       "version": "0.1"
+    },
+    "structure-harvester":     {
+      "buildDate": "Mar 11, 2014",
+      "dependencies": [],
+      "developers": [      {
+        "developerId": "kinow",
+        "email": "brunodepaulak@yahoo.com.br",
+        "name": "Bruno P. Kinoshita"
+      }],
+      "excerpt": "This plug-in integrates Jenkins to Structure Harvester.",
+      "gav": "org.biouno:structure-harvester:0.1",
+      "name": "structure-harvester",
+      "releaseTimestamp": "2014-03-12T00:07:14.00Z",
+      "requiredCore": "1.532.2",
+      "scm": "github.com",
+      "sha1": "Csl2+7KNfFT8dCSbk65Z7zvk/G4=",
+      "title": "Structure Harvester Plug-in",
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/structure-harvester/0.1/structure-harvester-0.1.hpi",
+      "version": "0.1"
     }
   },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "W35iK5w9hLiOXtiWHAhzYY6XpVg=",
-    "correct_signature": "CaajI6XcO4l8mJRDZnZLe9IA8Rhbu+Dpj1e6KUxuHwdsWxJ5w3cODZcTG6XridXeSXP9vlmsobsO95k5LIU3iS9F8nqt8YTLqAhrHSjffG+peJtikwNKeKSyO3I2KIL3cYV21HQoDY0xZW9pes4VZLUT5I8xr46p/HLK71U5qP8=",
+    "correct_digest": "J9fHuOgdahz3dsnrQKrac1xWqT4=",
+    "correct_signature": "n8joe39xuwmaAQia0aJFy3QO4KjzFzq+OsUc0xISykGUcUqGJ6Sq5E+3T1ob3bvZk2XHe8tUGp1V3cXCPdpAJEL0TEYpbfGfh48b4VntzKns4B8lVKscn/KIOli8j6YUkFz3hWeUKPU7O1b+7Z998ZX9y0JWanZ7muFVmGLCizQ=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },
