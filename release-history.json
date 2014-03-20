@@ -46,5 +46,17 @@
       "version": "0.1",
       "wiki": ""
     }]
+  },
+    {
+    "date": "Mar 20, 2014",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.biouno:uno-choice:0.1",
+      "latestRelease": true,
+      "timestamp": 1395354054000,
+      "title": "uno-choice",
+      "version": "0.1",
+      "wiki": ""
+    }]
   }
 ]}
