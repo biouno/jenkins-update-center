@@ -5,7 +5,7 @@
       "firstRelease": true,
       "gav": "org.biouno:structure:0.1",
       "latestRelease": true,
-      "timestamp": 1394256374000,
+      "timestamp": 1394245574000,
       "title": "Structure Plug-in",
       "version": "0.1",
       "wiki": ""
@@ -17,7 +17,7 @@
       "firstRelease": true,
       "gav": "org.biouno:pbs:0.1",
       "latestRelease": true,
-      "timestamp": 1394424244000,
+      "timestamp": 1394413444000,
       "title": "PBS Plug-in",
       "version": "0.1",
       "wiki": ""
@@ -28,7 +28,7 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:structure-harvester:0.1",
-      "timestamp": 1394582834000,
+      "timestamp": 1394572034000,
       "title": "Structure Harvester Plug-in",
       "version": "0.1",
       "wiki": ""
@@ -40,7 +40,7 @@
       "firstRelease": true,
       "gav": "org.biouno:clumpp:0.1",
       "latestRelease": true,
-      "timestamp": 1394678034000,
+      "timestamp": 1394667234000,
       "title": "CLUMPP Plug-in",
       "version": "0.1",
       "wiki": ""
@@ -52,7 +52,7 @@
       "firstRelease": true,
       "gav": "org.biouno:uno-choice:0.1",
       "latestRelease": true,
-      "timestamp": 1395354054000,
+      "timestamp": 1395343254000,
       "title": "uno-choice",
       "version": "0.1",
       "wiki": ""
@@ -63,7 +63,7 @@
     "releases": [    {
       "gav": "org.biouno:structure-harvester:0.2",
       "latestRelease": true,
-      "timestamp": 1395716698000,
+      "timestamp": 1395705898000,
       "title": "Structure Harvester Plug-in",
       "version": "0.2",
       "wiki": ""
