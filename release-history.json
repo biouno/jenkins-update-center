@@ -39,7 +39,6 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:clumpp:0.1",
-      "latestRelease": true,
       "timestamp": 1394667234000,
       "title": "CLUMPP Plug-in",
       "version": "0.1",
@@ -65,6 +64,17 @@
       "latestRelease": true,
       "timestamp": 1395705898000,
       "title": "Structure Harvester Plug-in",
+      "version": "0.2",
+      "wiki": ""
+    }]
+  },
+    {
+    "date": "Mar 29, 2014",
+    "releases": [    {
+      "gav": "org.biouno:clumpp:0.2",
+      "latestRelease": true,
+      "timestamp": 1396056460000,
+      "title": "CLUMPP Plug-in",
       "version": "0.2",
       "wiki": ""
     }]
