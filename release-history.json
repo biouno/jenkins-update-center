@@ -50,7 +50,6 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:uno-choice:0.1",
-      "latestRelease": true,
       "timestamp": 1395354054000,
       "title": "uno-choice",
       "version": "0.1",
@@ -70,13 +69,23 @@
   },
     {
     "date": "Mar 29, 2014",
-    "releases": [    {
-      "gav": "org.biouno:clumpp:0.2",
-      "latestRelease": true,
-      "timestamp": 1396067260000,
-      "title": "CLUMPP Plug-in",
-      "version": "0.2",
-      "wiki": ""
-    }]
+    "releases":     [
+            {
+        "gav": "org.biouno:clumpp:0.2",
+        "latestRelease": true,
+        "timestamp": 1396067260000,
+        "title": "CLUMPP Plug-in",
+        "version": "0.2",
+        "wiki": ""
+      },
+            {
+        "gav": "org.biouno:uno-choice:0.2",
+        "latestRelease": true,
+        "timestamp": 1396110544000,
+        "title": "uno-choice",
+        "version": "0.2",
+        "wiki": ""
+      }
+    ]
   }
 ]}

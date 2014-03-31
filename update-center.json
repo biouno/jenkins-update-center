@@ -83,25 +83,27 @@ updateCenter.post(
       "version": "0.2"
     },
     "uno-choice":     {
-      "buildDate": "Mar 20, 2014",
+      "buildDate": "Mar 29, 2014",
       "dependencies": [],
       "developers": [{"developerId": "kinow"}],
       "excerpt": "",
-      "gav": "org.biouno:uno-choice:0.1",
+      "gav": "org.biouno:uno-choice:0.2",
       "name": "uno-choice",
-      "releaseTimestamp": "2014-03-20T22:20:54.00Z",
+      "previousTimestamp": "2014-03-20T22:20:54.00Z",
+      "previousVersion": "0.1",
+      "releaseTimestamp": "2014-03-29T16:29:04.00Z",
       "requiredCore": "1.509.4",
       "scm": "github.com",
-      "sha1": "7VMcI3eMpnK+ZLZCmsyxJ+ppTrg=",
+      "sha1": "a71CmUQaFWSAJHu4IPqu2wvMJ/M=",
       "title": "uno-choice",
-      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/uno-choice/0.1/uno-choice-0.1.hpi",
-      "version": "0.1"
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/uno-choice/0.2/uno-choice-0.2.hpi",
+      "version": "0.2"
     }
   },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "tPk30tvl1e5KdsNoQpiBRf7zJbY=",
-    "correct_signature": "GCiExHh7Ht92b/ofiLIN5dTH1FG/Z132JdjAZXZ9xMKk1MXBH4gzji8LXWsdsCO9+Uw+onl2yj+TVl+f7avC3ItK87g+35OqBfq1toCUNPmkSc24v7QO5QSSZ9TcHkOGmZMAD4cRU1Cb2xe/yExgF5m5e5loLhzTwVlt0NFtvbM=",
+    "correct_digest": "nIs8n8cK87xzJmwL8vrOyqY5SLc=",
+    "correct_signature": "Zhv/TZlwRevG77L93kdsUkn8Tj/GH+e4NEsmIhGKhCjchq5ZXXeIRAtZcRsH4j1Vb+qY1yY6s//gPFfYdXe7pvolvAFmthB8hDoI2YYnmTaFVT8Sg1bPyx6UWLkRKHfShSpVBAjTC/Zt2Ragy9Fe/ekSCq3lCtiqD/1f9l0EdA8=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },
