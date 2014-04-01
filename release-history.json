@@ -91,7 +91,6 @@
     "date": "Mar 31, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.3",
-      "latestRelease": true,
       "timestamp": 1396295892000,
       "title": "uno-choice",
       "version": "0.3",
