@@ -11,17 +11,17 @@ updateCenter.post(
         "name": "Bruno P. Kinoshita"
       }],
       "excerpt": "This plug-in integrates Jenkins to CLUMPP.",
-      "gav": "org.biouno:clumpp:0.4",
+      "gav": "org.biouno:clumpp:0.5",
       "name": "clumpp",
-      "previousTimestamp": "2014-04-01T20:28:38.00Z",
-      "previousVersion": "0.3",
-      "releaseTimestamp": "2014-04-01T22:23:36.00Z",
+      "previousTimestamp": "2014-04-01T22:23:36.00Z",
+      "previousVersion": "0.4",
+      "releaseTimestamp": "2014-04-01T22:58:54.00Z",
       "requiredCore": "1.532.2",
       "scm": "github.com",
-      "sha1": "cPT0ZGtIZBzp7LT55PkJJTjZ0xs=",
+      "sha1": "7JUOHnKX3DPTJWUDAHvOHG2z5+Q=",
       "title": "CLUMPP Plug-in",
-      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/clumpp/0.4/clumpp-0.4.hpi",
-      "version": "0.4"
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/clumpp/0.5/clumpp-0.5.hpi",
+      "version": "0.5"
     },
     "pbs":     {
       "buildDate": "Mar 10, 2014",
@@ -102,8 +102,8 @@ updateCenter.post(
   },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "8JJtQl54TL+xIep4JSAELOKwDrM=",
-    "correct_signature": "Wq5nB8pw3m5emQ9YuzB9bAlIXpBHQZMniCJ5A8jSKBAELn90Ntga9MgU05T3DQOVqBVvYcsBklxrp4+fAr68IsizVBPWTS2w4FLP/KQNA8AE7wkR4Grl3Id5P6jv+Rja9EFc//BxoT9Gh23ZG2d0JDqe/LTOnHV9rLweqeiTnfI=",
+    "correct_digest": "PUJRIsgkcs44rTJu4evX8F2MYDk=",
+    "correct_signature": "fnjR1gyn379LZXDP6UqqPYYxOkWoEPMV+w8GkCa1M72l89lb6t9yICRkBRLMr/cAK+Y2Xg9HvSl/gwCWzF+k9cGvG+I8GSy7eiKLR19ZFujRZYkG1elXdFHtpkuZTfPzGrtgvwM3Xn+TjvLRkuGhXY8IILU0b4yMXAZkY1mkGdo=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },
