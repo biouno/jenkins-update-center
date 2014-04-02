@@ -100,7 +100,6 @@
     "date": "Apr 01, 2014",
     "releases": [    {
       "gav": "org.biouno:clumpp:0.3",
-      "latestRelease": true,
       "timestamp": 1396384118000,
       "title": "CLUMPP Plug-in",
       "version": "0.3",
