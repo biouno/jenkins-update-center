@@ -23,6 +23,25 @@ updateCenter.post(
       "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/clumpp/0.7/clumpp-0.7.hpi",
       "version": "0.7"
     },
+    "distruct":     {
+      "buildDate": "Apr 07, 2014",
+      "dependencies": [],
+      "developers": [      {
+        "developerId": "kinow",
+        "email": "brunodepaulak@yahoo.com.br",
+        "name": "Bruno P. Kinoshita"
+      }],
+      "excerpt": "This plug-in integrates Jenkins to Distruct.",
+      "gav": "org.biouno:distruct:0.1",
+      "name": "distruct",
+      "releaseTimestamp": "2014-04-07T21:34:24.00Z",
+      "requiredCore": "1.532.2",
+      "scm": "github.com",
+      "sha1": "tFbpoqYmuCjPr3U8/jgu9hY+15Y=",
+      "title": "Distruct Plug-in",
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/distruct/0.1/distruct-0.1.hpi",
+      "version": "0.1"
+    },
     "pbs":     {
       "buildDate": "Mar 10, 2014",
       "dependencies": [],
@@ -102,8 +121,8 @@ updateCenter.post(
   },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "nUxWkYFQe4Om28aoffP65LYqLQk=",
-    "correct_signature": "hgBm1j5WL6cWlOVHuj7EkVFNhvb1flBYDa8Sf9O269T6vWs4J57JRHjljvLPfhZmn9lDZ40se2nN7j0xPCMScXw4ISzV8MsYrxbkJAHqvKszucgQQ7MkuwuE4pJFB7jzsRfPH6Q3gwwDOIlc263+khtKHeeDWlFEfSaCHQLdLjU=",
+    "correct_digest": "e+lDnovfokimQb/c48gkGy93ghk=",
+    "correct_signature": "rmhf70N7xYESiD/JFyyCX+btkMJva/0FUap4z5K4NNvTHb6sRQZnu/3+WZXtTI3FWg34pM2iPgWHdfUAJF5PACnSHLFnQIYFHfzHN5PrfXB7oQ4K0AQfv5GMZxaYvDQsKgBh557dpkOoY+gmVCxufTRD3z1hBIPvz9AOc0FLZzA=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },

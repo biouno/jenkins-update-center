@@ -116,5 +116,17 @@
       "version": "0.7",
       "wiki": ""
     }]
+  },
+    {
+    "date": "Apr 07, 2014",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.biouno:distruct:0.1",
+      "latestRelease": true,
+      "timestamp": 1396906464000,
+      "title": "Distruct Plug-in",
+      "version": "0.1",
+      "wiki": ""
+    }]
   }
 ]}
