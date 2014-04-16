@@ -133,10 +133,20 @@
     "date": "Apr 10, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.5",
-      "latestRelease": true,
       "timestamp": 1397164718000,
       "title": "Uno-Choice Plug-in",
       "version": "0.5",
+      "wiki": ""
+    }]
+  },
+    {
+    "date": "Apr 16, 2014",
+    "releases": [    {
+      "gav": "org.biouno:uno-choice:0.6",
+      "latestRelease": true,
+      "timestamp": 1397676480000,
+      "title": "Uno-Choice Plug-in",
+      "version": "0.6",
       "wiki": ""
     }]
   }
