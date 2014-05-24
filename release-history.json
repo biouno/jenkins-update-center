@@ -122,7 +122,6 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:distruct:0.1",
-      "latestRelease": true,
       "timestamp": 1396906464000,
       "title": "Distruct Plug-in",
       "version": "0.1",
@@ -207,6 +206,17 @@
       "timestamp": 1400627960000,
       "title": "Uno-Choice Plug-in",
       "version": "0.12",
+      "wiki": ""
+    }]
+  },
+    {
+    "date": "May 23, 2014",
+    "releases": [    {
+      "gav": "org.biouno:distruct:0.2",
+      "latestRelease": true,
+      "timestamp": 1400879168000,
+      "title": "Distruct Plug-in",
+      "version": "0.2",
       "wiki": ""
     }]
   }
