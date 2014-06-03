@@ -229,5 +229,17 @@
       "version": "0.13",
       "wiki": ""
     }]
+  },
+    {
+    "date": "Jun 02, 2014",
+    "releases": [    {
+      "firstRelease": true,
+      "gav": "org.biouno:jmol:0.1",
+      "latestRelease": true,
+      "timestamp": 1401745616000,
+      "title": "Jmol Plug-in",
+      "version": "0.1",
+      "wiki": ""
+    }]
   }
 ]}
