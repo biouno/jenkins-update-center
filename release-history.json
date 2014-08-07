@@ -223,7 +223,6 @@
     "date": "May 30, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.13",
-      "latestRelease": true,
       "timestamp": 1401478524000,
       "title": "Uno-Choice Plug-in",
       "version": "0.13",
@@ -239,6 +238,17 @@
       "timestamp": 1401745616000,
       "title": "Jmol Plug-in",
       "version": "0.1",
+      "wiki": ""
+    }]
+  },
+    {
+    "date": "Aug 05, 2014",
+    "releases": [    {
+      "gav": "org.biouno:uno-choice:0.14",
+      "latestRelease": true,
+      "timestamp": 1407268820000,
+      "title": "Uno-Choice Plug-in",
+      "version": "0.14",
       "wiki": ""
     }]
   }
