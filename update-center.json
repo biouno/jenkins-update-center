@@ -119,7 +119,7 @@ updateCenter.post(
       "version": "0.2"
     },
     "uno-choice":     {
-      "buildDate": "Aug 22, 2014",
+      "buildDate": "Sep 08, 2014",
       "dependencies": [      {
         "name": "scriptler",
         "optional": false,
@@ -127,23 +127,23 @@ updateCenter.post(
       }],
       "developers": [{"developerId": "kinow"}],
       "excerpt": "A proposal for a new Jenkins UI plugin for selecting one or multiple parameters. Attempting to fill the gaps left by current plugin options.",
-      "gav": "org.biouno:uno-choice:0.18",
+      "gav": "org.biouno:uno-choice:0.19",
       "name": "uno-choice",
-      "previousTimestamp": "2014-08-22T10:18:50.00Z",
-      "previousVersion": "0.17",
-      "releaseTimestamp": "2014-08-22T14:45:58.00Z",
+      "previousTimestamp": "2014-08-22T14:45:58.00Z",
+      "previousVersion": "0.18",
+      "releaseTimestamp": "2014-09-08T22:21:04.00Z",
       "requiredCore": "1.539",
       "scm": "github.com",
-      "sha1": "WrJTz7Bk6hDYqgvQj3vXrRMs8ak=",
+      "sha1": "cNduydnjTGGZBbatcM85HYkvb00=",
       "title": "Uno-Choice Plug-in",
-      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/uno-choice/0.18/uno-choice-0.18.hpi",
-      "version": "0.18"
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/uno-choice/0.19/uno-choice-0.19.hpi",
+      "version": "0.19"
     }
   },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "C/2fpu1XsiKoR0GOhqHaYFEEUiY=",
-    "correct_signature": "CZlTIXEPMQPzc0+6EIYBiOU1tLjKVPW0ZHSia2ZN0eeyorWJLXkkUbDCpIIB9gc7beo90I2Gp9PJqKleiMDr2U/SQaje9l85ea9My44CD44qsPpajINrXJBd/IfNMidyIl0YbOIdO6JC0Zz0pyegQXMUpOma1V51e6RCx3kZXIY=",
+    "correct_digest": "wX6BmyaNIrdgaUjC4wWpe2+O7Uc=",
+    "correct_signature": "NnwSD1JHJmFY51crY60rKL8kDK0r5Ik7FxvJqLt8TzzGuVaBAeACw9mS6NWx5ujsvA3fOgjHmt/L51AYp6Qf2CKzUAhhgcj5vqDSd8zlHJ1OjflLGIwfNCAe3rNZko/D4LjGhhNsB4QBTMpc7vSZuUdYJDe0VSTBTuDcEMWLdd0=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },
