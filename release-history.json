@@ -304,7 +304,6 @@
     "date": "Nov 18, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.21",
-      "latestRelease": true,
       "timestamp": 1416278034000,
       "title": "Uno-Choice Plug-in",
       "version": "0.21",
@@ -319,6 +318,17 @@
       "timestamp": 1424012194000,
       "title": "PBS Plug-in",
       "version": "0.2",
+      "wiki": ""
+    }]
+  },
+    {
+    "date": "Mar 25, 2015",
+    "releases": [    {
+      "gav": "org.biouno:uno-choice:0.24",
+      "latestRelease": true,
+      "timestamp": 1427288036000,
+      "title": "Uno-Choice Plug-in",
+      "version": "0.24",
       "wiki": ""
     }]
   }
