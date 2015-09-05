@@ -336,9 +336,9 @@
     "date": "Sep 05, 2015",
     "releases": [    {
       "firstRelease": true,
-      "gav": "org.biouno:figshare-plugin:0.1",
+      "gav": "org.biouno:figshare:0.1",
       "latestRelease": true,
-      "timestamp": 1441427676000,
+      "timestamp": 1441429490000,
       "title": "figshare Plug-in",
       "version": "0.1",
       "wiki": "https://github.com/biouno/figshare-plugin"

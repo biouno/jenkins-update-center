@@ -44,7 +44,7 @@ updateCenter.post(
       "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/distruct/0.2/distruct-0.2.hpi",
       "version": "0.2"
     },
-    "figshare-plugin":     {
+    "figshare":     {
       "buildDate": "Sep 05, 2015",
       "dependencies": [      {
         "name": "credentials",
@@ -56,14 +56,14 @@ updateCenter.post(
         "name": "Bruno P. Kinoshita"
       }],
       "excerpt": "This plug-in integrates Jenkins and figshare.",
-      "gav": "org.biouno:figshare-plugin:0.1",
-      "name": "figshare-plugin",
-      "releaseTimestamp": "2015-09-05T04:34:36.00Z",
+      "gav": "org.biouno:figshare:0.1",
+      "name": "figshare",
+      "releaseTimestamp": "2015-09-05T05:04:50.00Z",
       "requiredCore": "1.580.1",
       "scm": "github.com",
-      "sha1": "oUS3DusXQrGNBfqUtDgQ21FxLb4=",
+      "sha1": "xF9n/qV9G9xvsogKDHbugySkjF8=",
       "title": "figshare Plug-in",
-      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/figshare-plugin/0.1/figshare-plugin-0.1.hpi",
+      "url": "http://biouno.org/jenkins-update-center/releases/org/biouno/figshare/0.1/figshare-0.1.hpi",
       "version": "0.1",
       "wiki": "https://github.com/biouno/figshare-plugin"
     },
@@ -167,8 +167,8 @@ updateCenter.post(
   },
   "signature":   {
     "certificates": ["MIICMjCCAZugAwIBAgIJALtKi5rSkEBNMA0GCSqGSIb3DQEBBQUAMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzAeFw0xNDAzMDgxNTE2MzVaFw0xNzAzMDcxNTE2MzVaMDIxCzAJBgNVBAYTAkJSMRIwEAYDVQQIDAlTYW8gUGF1bG8xDzANBgNVBAoMBkJpb1VubzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2xgPFxaYIb6INfQTbR5hy+zCpTl9+Xe/IA0k/dxBWwozuKSSxInH20kkaXPI/J4aLM+ygyCLslNc7hI9hNh7BMP5WbTzRorRo4tfmQzvEjdE94T6+ElJOzHExToxUH8cAqKCrDDREvrzprNCQ7ylVRSrhaic7lI+FXZYCCntQcCAwEAAaNQME4wHQYDVR0OBBYEFARhXoiXnoosPZr6nQDvT+OSQmWqMB8GA1UdIwQYMBaAFARhXoiXnoosPZr6nQDvT+OSQmWqMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAfxBd9+JT8hwLROWcbPKDLO87r/Gxd7+7dmdoNBl7oXhWht2QaHvEMoFP9TV9GPeYZ6wFUaAsba6wyiMtcR9pAaktJWVzPoJ89Y5wbIstPkq9lCVuFO5q83+2D+xEs/7Sc3L2bWSsCtk4Lb3O1QIsNS9uRMROhKPbIdRJgsOZyn0="],
-    "correct_digest": "y2tgYQCM7xOF2wp1r+3NdiYiwpE=",
-    "correct_signature": "TFbzk3cWs2e79L09uSMo952lL0KuJlPT9+lKxbl9x9JcrxgId/vaM52zaoMhQkifTAj93btBcr+FK2UohRJpGOs1JshJYd/f/GzhSKroBmHLQcT4WKFjf5F6HxhYqZWIoPVldTbq8VwHO6EThfiFcUfznrFFL+Gfbwf8oZDvyKI=",
+    "correct_digest": "3O0ji1R8TuWLzES3AuH1UjqaFoY=",
+    "correct_signature": "pM0UE5t5dFOquAmNqxf6O7jhLGi0whvLRpI90COSlo2XBWjabLY4RkCStKDK4A6uSH2+GmrY3jpotpqcQaZdGc1JSg7NcRK7L/mRdKDkY5u8+J2Ef+GIKNhU/eHtJw5rwCAxezNV9NL3yJp0IU8AfZ4UgqxQisXjdInr+6j4IB8=",
     "digest": "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
     "signature": "iYoDeU9jRIGPfliPlDJ2DWASYf4KJxYaqz+kfxxV8fYPJW4nLp650MYBJQJ24xRvl8CweV+z4UC7A+WUNREbJ1wjfu8KjDpiAcUQgafA8abyQh1sA3X/3qjmyAjcRyErqdpCff6HLmWrDINlPF/UrR5j5Ne1J/itMxHdZKJbuv0="
   },
