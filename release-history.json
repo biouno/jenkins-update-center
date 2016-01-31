@@ -347,7 +347,6 @@
     "date": "Jan 31, 2016",
     "releases": [    {
       "gav": "org.biouno:clumpp:0.8",
-      "latestRelease": true,
       "timestamp": 1454224902000,
       "title": "CLUMPP Plug-in",
       "version": "0.8",
