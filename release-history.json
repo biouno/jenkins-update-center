@@ -356,7 +356,6 @@
     "date": "Feb 01, 2016",
     "releases": [    {
       "gav": "org.biouno:distruct:0.4",
-      "latestRelease": true,
       "timestamp": 1454241670000,
       "title": "Distruct Plug-in",
       "version": "0.4",
