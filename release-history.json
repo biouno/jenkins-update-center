@@ -109,7 +109,6 @@
     "date": "Apr 02, 2014",
     "releases": [    {
       "gav": "org.biouno:clumpp:0.7",
-      "latestRelease": true,
       "timestamp": 1396435988000,
       "title": "CLUMPP Plug-in",
       "version": "0.7",
@@ -342,6 +341,17 @@
       "title": "figshare Plug-in",
       "version": "0.1",
       "wiki": "https://github.com/biouno/figshare-plugin"
+    }]
+  },
+    {
+    "date": "Jan 31, 2016",
+    "releases": [    {
+      "gav": "org.biouno:clumpp:0.8",
+      "latestRelease": true,
+      "timestamp": 1454224902000,
+      "title": "CLUMPP Plug-in",
+      "version": "0.8",
+      "wiki": ""
     }]
   }
 ]}
