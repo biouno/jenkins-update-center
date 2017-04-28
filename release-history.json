@@ -5,10 +5,9 @@
       "firstRelease": true,
       "gav": "org.biouno:structure:0.1",
       "latestRelease": true,
-      "timestamp": 1394256374000,
-      "title": "Structure Plug-in",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1394198774000,
+      "url": "https://plugins.jenkins.io/structure",
+      "version": "0.1"
     }]
   },
     {
@@ -16,10 +15,9 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:pbs:0.1",
-      "timestamp": 1394424244000,
-      "title": "PBS Plug-in",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1394366644000,
+      "url": "https://plugins.jenkins.io/pbs",
+      "version": "0.1"
     }]
   },
     {
@@ -27,10 +25,9 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:structure-harvester:0.1",
-      "timestamp": 1394582834000,
-      "title": "Structure Harvester Plug-in",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1394525234000,
+      "url": "https://plugins.jenkins.io/structure-harvester",
+      "version": "0.1"
     }]
   },
     {
@@ -38,10 +35,9 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:clumpp:0.1",
-      "timestamp": 1394678034000,
-      "title": "CLUMPP Plug-in",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1394620434000,
+      "url": "https://plugins.jenkins.io/clumpp",
+      "version": "0.1"
     }]
   },
     {
@@ -49,10 +45,9 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:uno-choice:0.1",
-      "timestamp": 1395354054000,
-      "title": "uno-choice",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1395296454000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.1"
     }]
   },
     {
@@ -60,10 +55,9 @@
     "releases": [    {
       "gav": "org.biouno:structure-harvester:0.2",
       "latestRelease": true,
-      "timestamp": 1395716698000,
-      "title": "Structure Harvester Plug-in",
-      "version": "0.2",
-      "wiki": ""
+      "timestamp": 1395659098000,
+      "url": "https://plugins.jenkins.io/structure-harvester",
+      "version": "0.2"
     }]
   },
     {
@@ -71,17 +65,15 @@
     "releases":     [
             {
         "gav": "org.biouno:clumpp:0.2",
-        "timestamp": 1396067260000,
-        "title": "CLUMPP Plug-in",
-        "version": "0.2",
-        "wiki": ""
+        "timestamp": 1396009660000,
+        "url": "https://plugins.jenkins.io/clumpp",
+        "version": "0.2"
       },
             {
         "gav": "org.biouno:uno-choice:0.2",
-        "timestamp": 1396110544000,
-        "title": "uno-choice",
-        "version": "0.2",
-        "wiki": ""
+        "timestamp": 1396052944000,
+        "url": "https://plugins.jenkins.io/uno-choice",
+        "version": "0.2"
       }
     ]
   },
@@ -89,20 +81,18 @@
     "date": "Mar 31, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.3",
-      "timestamp": 1396306692000,
-      "title": "uno-choice",
-      "version": "0.3",
-      "wiki": ""
+      "timestamp": 1396249092000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.3"
     }]
   },
     {
     "date": "Apr 01, 2014",
     "releases": [    {
       "gav": "org.biouno:clumpp:0.3",
-      "timestamp": 1396394918000,
-      "title": "CLUMPP Plug-in",
-      "version": "0.3",
-      "wiki": ""
+      "timestamp": 1396337318000,
+      "url": "https://plugins.jenkins.io/clumpp",
+      "version": "0.3"
     }]
   },
     {
@@ -110,10 +100,9 @@
     "releases": [    {
       "gav": "org.biouno:clumpp:0.7",
       "latestRelease": true,
-      "timestamp": 1396493588000,
-      "title": "CLUMPP Plug-in",
-      "version": "0.7",
-      "wiki": ""
+      "timestamp": 1396435988000,
+      "url": "https://plugins.jenkins.io/clumpp",
+      "version": "0.7"
     }]
   },
     {
@@ -121,90 +110,81 @@
     "releases": [    {
       "firstRelease": true,
       "gav": "org.biouno:distruct:0.1",
-      "timestamp": 1396917264000,
-      "title": "Distruct Plug-in",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1396863264000,
+      "url": "https://plugins.jenkins.io/distruct",
+      "version": "0.1"
     }]
   },
     {
     "date": "Apr 10, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.5",
-      "timestamp": 1397175518000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.5",
-      "wiki": ""
+      "timestamp": 1397121518000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.5"
     }]
   },
     {
     "date": "Apr 16, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.6",
-      "timestamp": 1397687280000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.6",
-      "wiki": ""
+      "timestamp": 1397633280000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.6"
     }]
   },
     {
     "date": "May 02, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.7",
-      "timestamp": 1399069228000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.7",
-      "wiki": ""
+      "timestamp": 1399015228000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.7"
     }]
   },
     {
     "date": "May 09, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.8",
-      "timestamp": 1399674606000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.8",
-      "wiki": ""
+      "timestamp": 1399620606000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.8"
     }]
   },
     {
     "date": "May 14, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.9",
-      "timestamp": 1400120746000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.9",
-      "wiki": ""
+      "timestamp": 1400066746000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.9"
     }]
   },
     {
     "date": "May 16, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.10",
-      "timestamp": 1400250274000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.10",
-      "wiki": ""
+      "timestamp": 1400196274000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.10"
     }]
   },
     {
     "date": "May 18, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.11",
-      "timestamp": 1400387302000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.11",
-      "wiki": ""
+      "timestamp": 1400333302000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.11"
     }]
   },
     {
     "date": "May 20, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.12",
-      "timestamp": 1400638760000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.12",
-      "wiki": ""
+      "timestamp": 1400584760000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.12"
     }]
   },
     {
@@ -212,20 +192,18 @@
     "releases": [    {
       "gav": "org.biouno:distruct:0.2",
       "latestRelease": true,
-      "timestamp": 1400889968000,
-      "title": "Distruct Plug-in",
-      "version": "0.2",
-      "wiki": ""
+      "timestamp": 1400835968000,
+      "url": "https://plugins.jenkins.io/distruct",
+      "version": "0.2"
     }]
   },
     {
     "date": "May 30, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.13",
-      "timestamp": 1401489324000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.13",
-      "wiki": ""
+      "timestamp": 1401435324000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.13"
     }]
   },
     {
@@ -234,80 +212,72 @@
       "firstRelease": true,
       "gav": "org.biouno:jmol:0.1",
       "latestRelease": true,
-      "timestamp": 1401756416000,
-      "title": "Jmol Plug-in",
-      "version": "0.1",
-      "wiki": ""
+      "timestamp": 1401702416000,
+      "url": "https://plugins.jenkins.io/jmol",
+      "version": "0.1"
     }]
   },
     {
     "date": "Aug 05, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.14",
-      "timestamp": 1407279620000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.14",
-      "wiki": ""
+      "timestamp": 1407225620000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.14"
     }]
   },
     {
     "date": "Aug 07, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.15",
-      "timestamp": 1407434358000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.15",
-      "wiki": ""
+      "timestamp": 1407380358000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.15"
     }]
   },
     {
     "date": "Aug 12, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.16",
-      "timestamp": 1407890716000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.16",
-      "wiki": ""
+      "timestamp": 1407836716000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.16"
     }]
   },
     {
     "date": "Aug 22, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.17",
-      "timestamp": 1408713530000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.17",
-      "wiki": ""
+      "timestamp": 1408659530000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.17"
     }]
   },
     {
     "date": "Sep 08, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.19",
-      "timestamp": 1410225664000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.19",
-      "wiki": ""
+      "timestamp": 1410171664000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.19"
     }]
   },
     {
     "date": "Nov 14, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.20",
-      "timestamp": 1415931452000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.20",
-      "wiki": ""
+      "timestamp": 1415877452000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.20"
     }]
   },
     {
     "date": "Nov 18, 2014",
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.21",
-      "timestamp": 1416278034000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.21",
-      "wiki": ""
+      "timestamp": 1416224034000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.21"
     }]
   },
     {
@@ -315,10 +285,9 @@
     "releases": [    {
       "gav": "org.biouno:pbs:0.2",
       "latestRelease": true,
-      "timestamp": 1424012194000,
-      "title": "PBS Plug-in",
-      "version": "0.2",
-      "wiki": ""
+      "timestamp": 1423958194000,
+      "url": "https://plugins.jenkins.io/pbs",
+      "version": "0.2"
     }]
   },
     {
@@ -326,10 +295,9 @@
     "releases": [    {
       "gav": "org.biouno:uno-choice:0.24",
       "latestRelease": true,
-      "timestamp": 1427288036000,
-      "title": "Uno-Choice Plug-in",
-      "version": "0.24",
-      "wiki": ""
+      "timestamp": 1427230436000,
+      "url": "https://plugins.jenkins.io/uno-choice",
+      "version": "0.24"
     }]
   }
 ]}
